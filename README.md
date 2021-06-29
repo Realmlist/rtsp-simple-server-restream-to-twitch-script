@@ -5,6 +5,7 @@ When a key is found it starts ffmpeg and restreams to Twitch.
 
 
 # Requirements:
+* [RtspSimpleServer](https://github.com/aler9/rtsp-simple-server)
 * Powershell
 * [MariaDB Server](https://downloads.mariadb.org/)
 * [MariaDB ODBC Connector](https://downloads.mariadb.org/connector-odbc/)
